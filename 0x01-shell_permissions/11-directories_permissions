@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x -R d*/..
+chmod ugo+x -R d*/..
