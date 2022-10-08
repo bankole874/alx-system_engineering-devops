@@ -1,1 +1,2 @@
-#!/bin/bash\ninstall -b -m 751
+#!/bin/bash
+install -b -m 751
