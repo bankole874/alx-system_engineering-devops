@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./*.gif -type d | rev | cut -d " " -f 1 | rev | sort
+find ./*.gif -type f | rev | cut -d " " -f 1 | rev | LC_ALL=C sort -f
