@@ -1,2 +1,9 @@
 #!/usr/bin/env ruby
-puts ARGV[0].scan(/from:(.*?)] \[to:(.*?)] \[flags:(.*?)]/).join
+while line = gets
+  if line =~ /from:(.*?)] \[to:(.*?)] \[flags:(.*?)]/
+    sender = $1
+    receiver = $2
+    flags = $3
+    puts "#{sender},#{receiver},#{flags}"
+  end
+end
