@@ -4,6 +4,6 @@ while line = gets
     sender = $1
     receiver = $2
     flags = $3
-    puts "#{sender},#{receiver},#{flags}"
+    puts "#{sender},#{receiver},#{flags}".join(",")
   end
 end
