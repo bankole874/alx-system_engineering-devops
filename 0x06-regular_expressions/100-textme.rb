@@ -4,10 +4,6 @@ while line = gets
     sender = $1
     receiver = $2
     flags = $3
-    puts "#{sender}"
-    puts ","
-    puts "#{receiver}"
-    puts ","
-    puts "#{flags}"
+    puts "this is #{sender},#{receiver},#{flags}"
   end
 end
