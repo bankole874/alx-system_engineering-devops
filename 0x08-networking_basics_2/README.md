@@ -19,6 +19,6 @@ Networking Basics ...
 
 ## Tech Stack
 
-**Client:** bash script
+**Client:** bash
 
 **Server:** Ubuntu 20.0.4
