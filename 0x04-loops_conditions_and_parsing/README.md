@@ -20,7 +20,7 @@ CMD CHALLENGE is a pretty cool game challenging you on Bash skills. Everything i
 
 
 | Tasks             | Description                                                                |
-| ----------------- | ------------------------------------------------------------------ |
+| -------------------------------- | ------------------------------------------------------------------ |
 | `0. Create a SSH RSA key pair` | Create a RSA key pair. |
 | `1. For Best School loop`| Write a Bash script that displays Best School 10 times. |
 | `2. While Best School loop` | Write a Bash script that displays Best School 10 times. |
