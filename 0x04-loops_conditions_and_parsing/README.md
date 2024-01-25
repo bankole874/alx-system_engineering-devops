@@ -35,7 +35,7 @@ CMD CHALLENGE is a pretty cool game challenging you on Bash skills. Everything i
 
 ## Tech Stack
 
-**Client:** Bash, Scripting
+**Client:** Bash, Scripting, DevOps, Shell.
 
 **Server:** Ubuntu 20.0.4
 
