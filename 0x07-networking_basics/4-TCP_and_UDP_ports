@@ -18,7 +18,7 @@ ss -tulpn | awk '{
 }'
 
 # Print a header for Unix domain sockets
-echo "\nActive UNIX domain sockets (only servers)"
+echo "Active UNIX domain sockets (only servers)"
 
 # Use ss to list Unix domain sockets in a user-friendly format
 ss -xulpn | awk '{
