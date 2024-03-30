@@ -1,4 +1,4 @@
-# 🦾 0x12. JavaScript - Warm up
+# 🦾 0x0D. Web stack debugging #0
 
 ## 🛠 To Learn
 
