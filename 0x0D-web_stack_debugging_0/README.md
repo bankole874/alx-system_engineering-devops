@@ -1,1 +1,19 @@
-0x0D web stack debugging
+# 🦾 0x12. JavaScript - Warm up
+
+## 🛠 To Learn
+
+- 
+
+## 👨‍💻 Tasks and Description
+
+| Tasks             | Description                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+|||
+
+
+
+## 🚀 Tech Stack
+
+**VM(s):** Linux
+
+**Client:** DevOps, SysAdmin, Scripting, Debugging
