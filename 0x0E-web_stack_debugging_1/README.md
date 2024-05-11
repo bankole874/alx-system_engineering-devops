@@ -1,7 +1,7 @@
 
 # 🦾 0x0E. Web stack debugging 1
 
-Web Stack debugging.
+Web Stack debugging 1.
 
 ## 🛠 Skills
 - Network basics
