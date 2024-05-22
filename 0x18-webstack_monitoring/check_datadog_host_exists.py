@@ -18,5 +18,5 @@ if response.status_code == 200:
     else:
         print("Host does not exist")
 else:
-    print(f"Failed to get hosts: {response.status_code}, {response.text}")
+    print("Failed to get hosts: {}, {}".format(response.status_code, response.text))
 
